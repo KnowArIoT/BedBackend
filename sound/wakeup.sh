@@ -1,4 +1,3 @@
 #!/bin/bash
 
-#L = loop
-vlc -L wakeup.mp3 &
+cvlc ~/ariot/BedBackend/sound/wakeup.mp3

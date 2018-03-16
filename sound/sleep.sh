@@ -1,3 +1,3 @@
 #!/bin/bash
 
-vlc sleep.mp3 &
+cvlc ~/ariot/BedBackend/sound/sleep.mp3
