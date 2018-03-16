@@ -2,4 +2,5 @@
 .iml
 target/**
 .mp3
-
+.out
+.swp
